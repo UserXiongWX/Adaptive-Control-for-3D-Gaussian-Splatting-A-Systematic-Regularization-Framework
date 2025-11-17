@@ -1,0 +1,10 @@
+# ninja log v5
+0	16247	1747365369494947221	/home/xiong/code/3DHGS_250514/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	45fe39ce48befb51
+0	46652	1747365399900896776	/home/xiong/code/3DHGS_250514/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	a28f74ca6f4c4dbc
+5	9513	1747365909798741144	/home/xiong/code/3DHGS_250514/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	b36a832e085ebb2d
+0	9377	1747552835716786516	/home/xiong/code/3DHGS_250514_new1/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	84917a77a0afa690
+0	16460	1747552842781728361	/home/xiong/code/3DHGS_250514_new1/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	d5d081b62a1616b3
+0	46867	1747552873203038036	/home/xiong/code/3DHGS_250514_new1/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	d7982e639f6cb3ae
+0	11633	1747576898511161246	/home/xiong/code/3DHGS_250514/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	b36a832e085ebb2d
+0	19610	1747576906479237932	/home/xiong/code/3DHGS_250514/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	45fe39ce48befb51
+0	51321	1747576938188404558	/home/xiong/code/3DHGS_250514/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	a28f74ca6f4c4dbc
