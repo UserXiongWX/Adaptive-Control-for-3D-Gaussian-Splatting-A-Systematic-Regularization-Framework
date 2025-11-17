@@ -1,0 +1,1 @@
+# Adaptive-Control-for-3D-Gaussian-Splatting-A-Systematic-Regularization-Framework
