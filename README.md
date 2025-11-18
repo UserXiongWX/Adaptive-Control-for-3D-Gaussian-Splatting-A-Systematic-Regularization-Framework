@@ -10,8 +10,7 @@ Our project is built upon the official [3D-HGS](https://github.com/hli-plus/3D-H
 
 **a. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/UserXiongWX/Adaptive-GS.git
 ```
 
 **b. Create and activate a Conda environment:**
@@ -40,15 +39,15 @@ Please download the [Mip-NeRF 360](https://jonbarron.info/mipnerf360/), [Tanks a
 Our regularization components are enabled by default. To train a model on a scene, simply run the `train.py` script:
 
 ```bash
-python train.py -s /path/to/your/datasets/counter -m ./output/counter
+python train.py -s /path/to/your/datasets -m ./output
 ```
 
 ## 3. Rendering and Evaluation
 To render a video from the test camera path or evaluate the performance metrics (PSNR, SSIM, LPIPS) of a trained model, use the render.py script.
 ```bash
 # Render a video of the test trajectory
-python render.py -m ./output/counter --skip_train
+python render.py -m ./output --skip_train
 
 # Evaluate metrics on the test set
-python render.py -m ./output/counter --skip_train --eval
+python render.py -m ./output --skip_train --eval
 ```
